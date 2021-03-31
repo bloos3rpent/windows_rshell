@@ -1,4 +1,4 @@
-# windows_rshell
+# Windows Reverse Shell
 Spawn a Reverse Shell in a Windows WebServer
   - Upload and use `win_rshell.php` in your browser 
   - However, I also made public the powershell script `rev.ps1` in case you are interested
